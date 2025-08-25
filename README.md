@@ -1,4 +1,4 @@
-Hybrid PQC Secure Communication Protocol
+Amphikey-Hybrid PQC Secure Communication Protocol
 This project implements a hybrid post-quantum secure communication protocol with two distinct operational modes: an Authenticated Mode for secure C12.22 meter data exchange and a Deniable Mode for plausibly deniable messaging.
 
 The protocol leverages a combination of classic and post-quantum cryptographic algorithms:
