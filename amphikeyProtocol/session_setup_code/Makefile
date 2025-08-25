@@ -59,7 +59,7 @@ deniable: server_keygen_executable client_keygen_executable denysender_app denyr
 benchmark: c1222_hybrid_client_benchmark
 
 # --- Build Rules ---
-
+ 
 # Authenticated Mode Server
 c1222_hybrid_server: c1222_hybrid_server.c
 	$(CC) $(CFLAGS) $(AUTH_DEFINES) -o $@ $^ \
